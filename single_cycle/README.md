@@ -1,4 +1,4 @@
-Implementation of a single cycle architecture for add, addc, addic, sub shift and mul instructions .<br />
+Implementation of a single cycle architecture for add, addc, addic, sub, shift and mul instructions .<br />
 
 1.)Datapath:
 <div style="width:40%; margin:auto; margin-bottom:10px; margin-top:20px;">
